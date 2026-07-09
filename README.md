@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/astrotalk-clone → Demo
 Most astrology scripts stop at "chat with an astrologer." This platform ships with the features that actually run an astrology *business*:
 
 - **Multi-Modal Consultations** — chat, voice, video — billing by minutes, with auto-routing to astrologer's preferred mode
-- **Kundli & Matchmaking** — 
-- **Daily Horoscope Engine** — Vedic chart generation, dosha analysis, and matchmaking reports — same depth as Astrotalk & AstroVed
-- **Wallet + Coin System** — automatic level-up by rating + volume (Rising Star → Top Astrologer → Verified Pro) — mirrors Astrotalk's tier program
-- **Astrologer Tier Programs** — prepaid wallet, gift cards, referral bonuses — what drives LTV in astrology apps
+- **Kundli & Matchmaking** — Vedic chart generation, dosha analysis, and matchmaking reports — same depth as Astrotalk & AstroVed
+- **Daily Horoscope Engine** — per-sign content with auto-publish via push — keeps users returning daily
+- **Wallet + Coin System** — prepaid wallet, gift cards, referral bonuses — what drives LTV in astrology apps
+- **Astrologer Tier Programs** — automatic level-up by rating + volume (Rising Star → Top Astrologer → Verified Pro) — mirrors Astrotalk's tier program
 
 ## 📦 Core Features
 
@@ -61,7 +61,7 @@ flowchart LR
     G --> PUSH[Push<br/>Horoscope]
 ```
 
-**Stack:** Flutter mobile apps (Android + iOS) · Node.js backend · MongoDB for chat/consult records · WebRTC for live consultations · Stripe/Razorpay for payments · Stripe, Razorpay, PayPal, regional gateways
+**Stack:** Flutter mobile apps (Android + iOS) · Node.js backend · MongoDB for chat/consult records · WebRTC for live consultations · Stripe, Razorpay, PayPal, regional gateways
 
 ## 📋 What’s Included
 
