@@ -1,331 +1,119 @@
-# Astrotalk Clone — White-Label Solution by Miracuves
+# Astrotalk Clone — White-Label Astrology Consultation Platform by Miracuves
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxastro.mimeld.com)
-[![Solution Page](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/astrotalk-clone/)
+[![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/astrotalk-clone/)
 [![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/astrotalk-clone/#pricing)
 [![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
 
+**MXAstro** is a production-ready, white-label Astrotalk clone: a complete astrology consultation platform with chat, call, kundli, and admin console — delivered with **100% source code ownership** in **6 working days**.
+
+> 🔮 **See it running before you talk to anyone.** Live user app, astrologer dashboard, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/astrotalk-clone#demo). No sales call required.
+
 ---
 
-## Table of Contents
-
-1. [Who Is This For?](#who-is-this-for)
-2. [How It Works](#how-it-works)
-3. [Core Features](#core-features)
-4. [Architecture](#architecture)
-5. [Revenue Streams](#revenue-streams)
-6. [What's Included](#whats-included)
-7. [Deployment Timeline](#deployment-timeline)
-8. [Why Not Build From Scratch?](#why-not-build-from-scratch)
-9. [Market Opportunity](#market-opportunity)
-10. [Client Testimonials](#client-testimonials)
-11. [FAQ](#faq)
-12. [Resources](#resources)
-13. [About Miracuves](#about-miracuves)
-
-## Live Demos
+## 🚀 Live Demos
 
 | Environment | URL | What you can test |
 |---|---|---|
-| Web Platform | [mxastro.mimeld.com](https://mxastro.mimeld.com) | Full experience in the browser |
-| Mobile App (Android) | [mas.mimeld.com](https://mas.mimeld.com) | Browse, transact, engage |
-| Admin Dashboard | [Solution page → Demo](https://miracuves.com/astrotalk-clone/#demo) | Users, content, plans, analytics |
+| 📱 User App | [mas.mimeld.com](https://mas.mimeld.com) | Book consultations, chat, call, horoscope, wallet |
+| 🌐 Web Portal | [mxastro.mimeld.com](https://mxastro.mimeld.com) | Full user experience in the browser |
+| 🔮 Astrologer Dashboard | [Solution page → Demo](https://miracuves.com/astrotalk-clone#demo) | Schedule, customers, earnings, payouts |
+| 🛠️ Admin Console | [Solution page → Demo](https://miracuves.com/astrotalk-clone#demo) | Astrologers, sessions, content, analytics |
 
-Demo credentials: [miracuves.com/astrotalk-clone -> Demo section](https://miracuves.com/astrotalk-clone/#demo)
-
-## What Makes This Astrotalk Clone Different
-
-<!-- TODO: fill 3-5 vertical-specific differentiators -->
-
-## Who Is This For?
-
-| Buyer Type | Use Case |
-|---|---|
-| Startup Founders | Launch an astrology consulting brand |
-| Astrologers / Gurus | Build your personal brand and client base |
-| Agencies / Resellers | White-label and deliver to your own clients |
-| Wellness Platforms | Add astrology to an existing wellness offering |
+Demo credentials for all environments: **[miracuves.com/astrotalk-clone → Demo section](https://miracuves.com/astrotalk-clone/#demo)**
 
 ---
 
-## How It Works
+## ✨ What Makes This Astrotalk Clone Different
 
-1. Customer browses astrologer profiles and reads ratings and reviews
-2. Customer selects a consultation type (video call, chat, or report)
-3. Per-minute billing starts when the astrologer accepts the session
-4. The astrology engine generates kundli and horoscope data in real time
-5. Session ends; payment is settled from the customer wallet
-6. Platform records the transaction and pays the astrologer minus commission
+Most astrology scripts stop at "chat with an astrologer." This platform ships with the features that actually run an astrology *business*:
 
----
+- **Multi-Modal Consultations** — chat, voice, video — billing by minutes, with auto-routing to astrologer's preferred mode
+- **Kundli & Matchmaking** — 
+- **Daily Horoscope Engine** — Vedic chart generation, dosha analysis, and matchmaking reports — same depth as Astrotalk & AstroVed
+- **Wallet + Coin System** — automatic level-up by rating + volume (Rising Star → Top Astrologer → Verified Pro) — mirrors Astrotalk's tier program
+- **Astrologer Tier Programs** — prepaid wallet, gift cards, referral bonuses — what drives LTV in astrology apps
 
-## Core Features
+## 📦 Core Features
 
-### Customer App
-- Browse astrologer profiles with ratings, reviews, and specializations
-- Live video call consultation with HD streaming
-- Chat consultation with instant messaging and typing indicators
-- Per-minute billing with real-time cost display
-- Kundli generation and detailed horoscope reports
-- Matchmaking with compatibility scoring
-- Wallet, card, UPI, and in-app payments
-- Consultation history, recordings, and receipts
+**User:** search astrologers · instant chat & call consultations · daily horoscope · kundli · matchmaking · wallet · reviews · reminders
 
-### Astrologer App
-- Set online status, availability hours, and consultation rates
-- Accept video, voice, or chat consultations
-- Real-time earnings tracker with per-minute billing
-- Profile management with certifications and specialties
-- Schedule management and booking calendar
+**Astrologer:** profile & specialisations · schedule management · chat/call inbox · earnings dashboard · payout requests · reviews · analytics
 
-### Admin Panel
-- Astrologer verification and document approval workflow
-- Commission structure configuration per astrologer
-- Real-time monitoring of active consultations
-- Revenue analytics and payout processing
-- User support ticket and dispute resolution system
+**Admin:** astrologer verification · session monitoring · commission engine · content moderation · analytics reports
 
----
-
-## Advanced Features
-
-The platform integrates AI-powered features that reduce manual overhead and capture revenue opportunities:
-
-- **AI Kundli Engine** - Automatic birth chart calculation with detailed planetary interpretations
-- **AI Horoscope Generator** - Personalized daily, weekly, and monthly horoscopes
-- **AI Compatibility Scoring** - Algorithmic matchmaking based on kundli matching parameters
-
----
-
-## Apps and Web Panels
-
-| Module | Description |
-|---|---|
-| Customer App (iOS + Android) | Browse, video call, chat, kundli, payments |
-| Astrologer App (iOS + Android) | Consultations, earnings, availability, profile |
-| Admin Web Panel | Users, astrologers, commissions, analytics |
-
----
-
-## Architecture
+## 🏗️ Architecture
 
 ```mermaid
 flowchart LR
-    A[Flutter Apps<br/>Android · iOS] --> G[REST API<br/>Laravel Backend]
-    W[Web Platform<br/>Responsive] --> G
-    P[Partner Panel] --> G
-    AD[Admin Dashboard] --> G
-    G --> DB[(MySQL)]
-    G --> S3[Object Storage]
+    A[User App<br/>Flutter]
+    B[Web Portal<br/>Responsive]
+    W[Astrologer Dashboard]
+    AD[Admin Console]
+    A --> G[REST API<br/>Node.js]
+    B --> G
+    W --> G
+    AD --> G
+    G --> DB[(MongoDB)]
+    G --> V[WebRTC<br/>Voice/Video]
+    V --> A
+    G --> PAY[Stripe/Razorpay]
+    G --> PUSH[Push<br/>Horoscope]
 ```
 
-**Stack:**
+**Stack:** Flutter mobile apps (Android + iOS) · Node.js backend · MongoDB for chat/consult records · WebRTC for live consultations · Stripe/Razorpay for payments · Stripe, Razorpay, PayPal, regional gateways
 
-| Layer | Technology |
-|---|---|
-| Mobile Apps | Flutter (iOS + Android, single codebase) |
-| Backend API | Node.js + Express |
-| Database | MongoDB |
-| Real-time | WebSockets (Socket.io) |
-| Video/Voice | Agora SDK / Twilio |
-| Payments | Stripe, Razorpay, PayPal |
-| Notifications | Firebase Cloud Messaging (FCM) |
-| Cloud Hosting | AWS / DigitalOcean / Contabo VPS |
-| Admin Panel | React.js |
+## 📋 What’s Included
 
----
+- ✅ Full source code — backend, web, mobile apps, panels (no encryption, no license locks)
+- ✅ Deployment to your servers & app store submission assistance
+- ✅ Your branding — white-label rename, logo, colors, domain
+- ✅ 60 days post-launch support + 12 months of free updates
+- ✅ Documentation & handover
 
-## Revenue Streams
+**Pricing:** from **$3,099**, transparent on the [solution page](https://miracuves.com/astrotalk-clone/#pricing) — no "contact us for quote" games.
 
-The platform is engineered to generate revenue from day one through multiple complementary channels:
+## 🆚 Why Not Build From Scratch?
 
-- **Commission per consultation** - take 15-30% from each session
-- **Subscription plans** - premium astrologer profile listings
-- **Report purchases** - paid kundli and horoscope report downloads
-- **Featured placements** - astrologers pay for top placement in search
+Custom astrology platforms run $50k–$200k and 3–7 months. A proven white-label base gets you to market in 6 working days for a fraction of that, with your budget preserved for astrologer onboarding and performance marketing.
 
----
+## 📚 Resources
 
-## Security and Compliance
+- 📖 [Astrotalk Clone — Full Solution Page](https://miracuves.com/astrotalk-clone) (features, pricing, demos, FAQ)
+- 💰 [How Much Does an Astrology App Cost in 2026?](https://miracuves.com/astrotalk-clone#pricing) pricing breakdown & what's included
+- 📝 [Best Astrotalk Clone Script in 2026](https://miracuves.com/astrotalk-clone/blog/) features, pricing & launch guide
+- 🧠 [Astrologer Onboarding: How Astrotalk Built Its Network](https://miracuves.com/astrotalk-clone/blog/) recruitment, retention, payouts
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/astrotalk-clone/facts/) every claim we make, verified
 
-- OTP-based authentication
-- SSL/TLS encrypted API communication
-- GDPR-ready data handling
+## 🏢 About Miracuves
+
+[Miracuves Solutions](https://miracuves.com) builds white-label clone apps and custom software from Mumbai, India — 90+ ready-made solutions, live demos for every product, transparent pricing, and delivery in 6 working days. Operating since 2010.
+
+**Talk to us:** [WhatsApp](https://wa.me/919830009649) · [Schedule a consultation](https://miracuves.com/schedule-consultation/) · [miracuves.com](https://miracuves.com)
 
 ---
 
-## What's Included
+### ⚠️ Note on This Repository
 
-| Plan | Price | What You Get |
-|---|---|---|
-| Standard | **$3,099** | Complete source code, all apps, admin panel, rebranding, 1 year updates |
-| Enterprise | Custom Quote | Everything in Standard + custom features, multi-region, priority support |
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/astrotalk-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
-**What is included:**
-
-- Customer App (iOS + Android)
-- Astrologer App (iOS + Android)
-- Admin Web Panel
-- Full Source Code
-- Complete Rebranding (your logo, colors, app name)
-- Server Deployment
-- App Store and Google Play Submission Support
-- 60 Days Free Bug Support
-- Free 1-Year Updates
+*Keywords: astrotalk clone, astrotalk clone script, astrology app, online astrology, kundli, white label astrology, Flutter astrology app, Node.js astrology*
 
 ---
-**Pricing:** from **$3,099** — transparent on the [solution page](https://miracuves.com/astrotalk-clone/#pricing).
-
-
-## Deployment Timeline
-
-| Day | Milestone |
-|---|---|
-| Day 1 | Server setup, environment configuration, initial deployment |
-| Day 2 | White-labeling - app name, logo, colors, splash screens |
-| Day 3 | Payment gateway integration + third-party API configuration |
-| Day 4 | Custom feature implementation (if applicable) |
-| Day 5 | QA, testing, bug fixes across all panels |
-| Day 6 | App Store + Google Play submission + Go-live |
-
-> **Average go-live: 6 business days from payment confirmation.**
-
----
-
-## Why Not Build From Scratch?
-
-| Factor | Build from Scratch | Miracuves Solution |
-|---|---|---|
-| Time to Launch | 6-12 months | 6 days |
-| Development Cost | $60,000-$150,000 | From $3,099 |
-| Source Code Ownership | Yes | Yes |
-| Customization | Full | Full |
-| Post-Launch Support | Depends on team | 60 days included |
-| Risk | High | Low |
-
----
-
-## Market Opportunity
-
-| Metric | Data |
-|---|---|
-| Global Astrology Market (2024) | $12 billion |
-| Projected Market Size (2031) | $22 billion |
-| CAGR | ~8.5% |
-| Key Growth Markets | India, USA, UK, UAE, Southeast Asia |
-| Active Astrologers on Leading Platforms | 15,000+ |
-
-> Source: Statista, Grand View Research, Allied Market Research
-
----
-
-## Successful Verticals
-
-- Vedic astrology video consultation platforms
-- Tarot card reading and psychic consultation apps
-- Numerology and palmistry services
-- Face reading and birth chart analysis platforms
-
----
-
-## Client Testimonials
-
-> *"The video call quality is excellent. Our astrologers love the per-minute billing, and users trust the platform."*
-> - CEO, Astrology Startup
-
----
-
-## FAQ
-
-**How much does an Astrotalk clone cost?**
-A white-label Astrotalk clone from Miracuves starts at $3,099 with complete source code ownership.
-
-**Does it support live video calls?**
-Yes. HD video calls with per-minute billing are built in.
-
-**Can astrologers set their own rates?**
-Yes. Each astrologer can set their own consultation rates per minute.
-
-**Do I get the source code?**
-Yes. Complete source code ownership is included.
-
-**How long does it take to launch?**
-6 business days from payment confirmation.
-
----
-
-## Related Solutions
-
-Explore our other white-label clone solutions:
-
-- [AstroSage Clone - Astrology Reports](https://github.com/Miracuves-Solutions/AstroSage-Clone)
-- [Cafe Astrology Clone - Horoscope](https://github.com/Miracuves-Solutions/CafeAstrology-Clone)
-- [Kundli App Clone - Astrology Reports](https://github.com/Miracuves-Solutions/Kundli-Clone)
-
----
-
-## Resources
-
-- [Full Solution Page](https://miracuves.com/astrotalk-clone/) — features, pricing, demos, FAQ
-
-
-## Get Started
-
-**Ready to launch your astrology consulting platform?**
-
-| Channel | Link |
-|---|---|
-| Full Solution Page | [miracuves.com/astrotalk-clone](https://miracuves.com/astrotalk-clone/) |
-| Email | info@miracuves.com |
-| WhatsApp | [+91 98300 09649](https://wa.me/919830009649) |
-| Book a Call | [Free Consultation](https://miracuves.com/contact/) |
-
----
-
-## About Miracuves
-
-**Miracuves Solutions Pvt. Ltd.** is a Mumbai-based software company specializing in white-label clone app solutions across 12+ industries.
-
-- 90+ ready-to-deploy solutions
-- 6-day delivery guarantee
-- 60+ engineers on staff
-- 3,900+ apps delivered
-- Full source code ownership
-- Clients across 40+ countries including India and USA
-
-[Explore all 90+ solutions at miracuves.com](https://miracuves.com)
-
----
-
-## Disclaimer
-
-This product is independently developed by Miracuves. All product names, logos, and brands are property of their respective owners. Use of these names does not imply endorsement.
-
----
-
-<div align="center">
-
-*(c) 2026 Miracuves Solutions Pvt. Ltd. | Mumbai, India*
-*This repository contains product documentation only - no proprietary source code is published here.*
-
-</div>
-
-
-*Keywords: astrotalk clone, astrotalk script, white label solution, laravel flutter app, clone script*
-
-
-
----
-
-### Note on This Repository
-
-This repository is a product overview. The full source code is delivered to clients on purchase. For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
-
 
 <!--
-=========================================================
-GENERATED FROM MIRACUVES NETFLIX-CLONE README TEMPLATE
-Canon: 6 working days, from $2,799 floor, 60 days support + 12 months updates.
-Never use 3 days. See https://miracuves.com/facts/ for audited claims.
-=========================================================
+══════════════════════════════════════════════════
+TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
+══════════════════════════════════════════════════
+{APP_NAME}        Astrotalk Clone
+{MX_NAME}         MXAstro
+{CATEGORY}        Astrology Consultation Platform
+{DEMO_WEB}        mxastro.mimeld.com
+{PRICE}           $3,099
+{SLUG}            astrotalk-clone
+{SOLUTION_URL}    https://miracuves.com/astrotalk-clone/
+{VERTICAL}        astrology
+
+See /tmp/verticals/astrology.txt for the vertical config used to generate this README.
+══════════════════════════════════════════════════
 -->
